@@ -1,6 +1,6 @@
 # Translated-RTE
 
-In this repository you can find all the code that I made for my bachelor's project on translated RTE, in which I recreated the ECNU system for Recognizing Textual Entailment (RTE) for English and made a version for Dutch to compare the system. For more information on this research, please see my thesis: (link will be added later when the library of the Rijksuniversiteit Groningen has approved its publication).
+In this repository you can find all the code that I made for my bachelor's project on translated RTE, in which I recreated the ECNU system for Recognizing Textual Entailment (RTE) for English and made a version for Dutch to compare the system. For more information on this research, please see my thesis: [http://scripties.fwn.eldoc.ub.rug.nl/scripties/Kunstmatigeintellige/Bachelor/2016/Doornkamp.J./].
 
 Please note that the code released here was never developed for public release, so there will be flaws and things may be confusing. There is a lack of proper commenting, however I will try to explain the process and how every part works as much as possible here. If you would like to use this code but have questions, feel free to contact me at [j.doornkamp@student.rug.nl]. 
 
